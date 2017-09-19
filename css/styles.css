@@ -4,5 +4,9 @@
 }
 .best {
   color: blue;
-
+}
+.sweet {
+  font-style: italic;
+  width: 50%;
+  color: purple;
 }
